@@ -4,7 +4,7 @@
 
 Automated email sender for AWS Learning Club Alpha with HTML templates and image support.
 
-## 📂 Project Structure
+## Project Structure
 
 aws-email-automation/
 ├── email_sender.py
@@ -22,7 +22,7 @@ aws-email-automation/
 └── Footer.png
 
 
-## 🚀 Setup Guide
+## Setup Guide
 
 ### 1. Clone the Repo
 
