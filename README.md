@@ -51,13 +51,13 @@ Edit email_sender.py:
 
 
 template_name = 'congratulatory.html'
-subject = '🎉 Congratulations & Welcome to AWS Learning Club Alpha!'
+subject = 'Congratulations & Welcome to AWS Learning Club Alpha!'
 
 Then run:
 
 
 python email_sender.py
-📩 Available Templates
+Available Templates
 congratulatory.html
 
 rejection.html
@@ -74,5 +74,5 @@ banner.png → top header
 
 Footer.png → footer/logo
 
-📌 License
-This project is open source and built with 💚 for AWS Learning Club Alpha.
+License
+This project is open source and built for AWS Learning Club Alpha.
