@@ -10,16 +10,16 @@ aws-email-automation/ <br>
 ├── email_sender.py <br>
 ├── contacts.csv <br>
 ├── .env.example <br>
-├── requirements.txt
+├── requirements.txt <br>
 ├── template/ <br>
-│ ├── congratulatory.html
-│ ├── rejection.html
-│ ├── partnership.html
-│ ├── sponsorship.html
+│ ├── congratulatory.html <br>
+│ ├── rejection.html <br>
+│ ├── partnership.html <br>
+│ ├── sponsorship.html <br>
 │ └── speakers.html <br>
 └── email-assets/ <br>
-├── banner.png
-└── Footer.png
+├── banner.png <br>
+└── Footer.png <br>
 
 
 ## Setup Guide
