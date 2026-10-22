@@ -6,18 +6,18 @@ Automated email sender for AWS Learning Club Alpha with HTML templates and image
 
 ## Project Structure
 
-aws-email-automation/
-├── email_sender.py
-├── contacts.csv
-├── .env.example
+aws-email-automation/ <br>
+├── email_sender.py <br>
+├── contacts.csv <br>
+├── .env.example <br>
 ├── requirements.txt
-├── template/
+├── template/ <br>
 │ ├── congratulatory.html
 │ ├── rejection.html
 │ ├── partnership.html
 │ ├── sponsorship.html
-│ └── speakers.html
-└── email-assets/
+│ └── speakers.html <br>
+└── email-assets/ <br>
 ├── banner.png
 └── Footer.png
 
